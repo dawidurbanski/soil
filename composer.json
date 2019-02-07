@@ -1,5 +1,5 @@
 {
-  "name": "roots/soil",
+  "name": "dawidurbanski/soil",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "A WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications",
@@ -20,7 +20,7 @@
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/soil/issues",
+    "issues": "https://github.com/dawidurbanski/soil/issues",
     "forum": "https://discourse.roots.io/"
   },
   "require": {
